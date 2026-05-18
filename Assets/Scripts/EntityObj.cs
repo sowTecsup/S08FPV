@@ -21,5 +21,8 @@ public class EntityObj : MonoBehaviour
 
             transform.position +=  dir * Speed * Time.deltaTime;
         }
+
+        
     }
+
 }
